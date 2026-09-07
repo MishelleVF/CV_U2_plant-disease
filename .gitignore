@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Dataset
+plantvillage_dataset/
+
+# Modelos / checkpoints
+checkpoints/
+
+# Features y archivos binarios pesados
+*.pkl
+
+# Archivos temporales
+.DS_Store
+Thumbs.db
